@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 # system-info.sh
 # Display a summary of key system information: OS, CPU, memory, disk, and uptime.
 

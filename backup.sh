@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 # backup.sh
 # Create a compressed, timestamped archive of a source directory.
 #
