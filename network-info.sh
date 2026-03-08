@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 # network-info.sh
 # Display a summary of network information: interfaces, IPs, default gateway,
 # DNS servers, and (optionally) a basic connectivity check.
