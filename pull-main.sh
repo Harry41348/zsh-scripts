@@ -34,8 +34,6 @@ while [[ $# -gt 0 ]]; do
 done
 
 # Save the current branch name
-
-# Save the current branch name
 current_branch=$(git branch --show-current)
 
 # Check for uncommitted changes
